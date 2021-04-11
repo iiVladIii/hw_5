@@ -1,4 +1,4 @@
-# hw_5
+# project
 
 ## Project setup
 ```
